@@ -1,3 +1,0 @@
-http://cdn.downtoearth.org.in/image/20080331/40.jpg
-
-Cannot download image; Failed to fetch

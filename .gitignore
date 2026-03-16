@@ -1,0 +1,18 @@
+# datasets
+data/
+
+# trained models
+models/
+
+# deep learning models
+*.h5
+*.pt
+*.pth
+*.pkl
+
+# python cache
+__pycache__/
+*.pyc
+
+# mac files
+.DS_Store
